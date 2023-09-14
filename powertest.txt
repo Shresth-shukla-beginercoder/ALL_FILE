@@ -1,0 +1,3 @@
+student name:papa
+student age :31
+student cgpa:9.600000
